@@ -9,10 +9,10 @@ Engine:
 -Link animations with penguin, then with key presses
 -Work on making the controls silky-smooth
 -Debug player-controlled penguin
--Potentially create a global variable list?
 -Starting Menu
 -Keybind Options
 -Petty graphics settings
+-Player Class (Health, Stamina, Mana etc)
 
 #Models:
 -Import:
@@ -42,7 +42,6 @@ Sliding, Walking (Straight/Turning), Idle
 -Create AI Store inventories
 -Create economics
 -Create swimming
--Create Flying
 -Create basic combat
 -Expand AI to add the following:
 Notices Players, Notices other AI types(Penguin,Walrus,etc), attacks
@@ -69,6 +68,18 @@ Notices Players, Notices other AI types(Penguin,Walrus,etc), attacks
 
 #World:
 -increase wetness (I’m already wet from this - Nick)
+
+##phase 3 bois:
+
+#Engine:
+-Penguin Customization options (Reference the mesh section for more details)
+-Expand on combat- Rolling, blocking, etc
+-Lets work on some magic stuff! Mana + Spell particle fx :D
+-We should probably add in jumping by now
+-Physics - So the penguins can flop around and stuff
+-
+
+...
 
 
 
