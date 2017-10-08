@@ -51,6 +51,7 @@ Notices Players, Notices other AI types(Penguin,Walrus,etc), attacks
 -smol pengu wepons
 -Fish
 -Big scary walruseses
+-also Seals
 -Birds
 
 #Animations:
@@ -72,12 +73,27 @@ Notices Players, Notices other AI types(Penguin,Walrus,etc), attacks
 ##phase 3 bois:
 
 #Engine:
--Penguin Customization options (Reference the mesh section for more details)
+-Player spawning options.
+-Penguin customization (different beak types, flippers, skins, etc)
+-Stats: (Strength, Agility, Constitution, Widsom, Intellect, Luck, etc)
+-Expand on AI: Make other penguins act like penguins- swim and fish, huddle in packs, etc.
+-Expand on AI: Make Walrus/Seals Enjoy sunbathing and occasionally hunting penguins. If walrus don't actually hunt penguins we're going to
+  replace them with seals to increase #immersion
 -Expand on combat- Rolling, blocking, etc
 -Lets work on some magic stuff! Mana + Spell particle fx :D
 -We should probably add in jumping by now
 -Physics - So the penguins can flop around and stuff
--
+-work on procedural/randomization engine
+-make AI penguins spawn with random facial features
+
+#Models:
+-Vary Walri & Seals
+-Create individual penguin vertex groups, to create varying types of beaks, flippers, eyes, skin-textures, etc.
+-More penguin items. Clubs and stuff. So you can like, club the seals.
+-Begin working on Humans (which im already working on)
+-Begin working on other non-arctic assets so we're ready to begin working on the RPG
+
+
 
 ...
 
@@ -85,3 +101,5 @@ Notices Players, Notices other AI types(Penguin,Walrus,etc), attacks
 
 ##SHARED IDEAS:
 -???
+-Perhaps in the later on RPG (like when players are Humanoids), penguins could be a secret player race unlocked from some kind of penguin-related achievement. The penguins
+are extremely weak and goofy and ultimately a hardmode race for *those people*
