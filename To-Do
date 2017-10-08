@@ -1,0 +1,76 @@
+##OFFICIAL TO-DO LIST
+
+#Phase 1
+Engine:
+-Begin work on modular structure of game.
+-Key Detection Class - make key’s variables set by the player
+-Movement Class
+-Camera Class
+-Link animations with penguin, then with key presses
+-Work on making the controls silky-smooth
+-Debug player-controlled penguin
+-Potentially create a global variable list?
+-Starting Menu
+-Keybind Options
+-Petty graphics settings
+
+#Models:
+-Import:
+Penguin, Mountains,Snow,Rocks,etc.
+
+#Animations:
+-Import:
+Sliding, Walking (Straight/Turning), Idle
+
+#SFX:
+-Wind & Snow ambience
+-Penguin Footsteps
+-Random penguin sound
+-UI SFX
+
+#World:
+-Put together world assets in unity.
+
+##Phase 2
+
+#Engine:
+-Start working on basic AI. Make a penguin that just wanders around and squawks.
+-Start working on basic combat engine. Create a lock-on button & effect (think: Dark Souls)
+-Create basic RPG elements. Money, Health, Stamina, Magic, etc.
+-Create a player inventory
+-Create basic Equipment code
+-Create AI Store inventories
+-Create economics
+-Create swimming
+-Create Flying
+-Create basic combat
+-Expand AI to add the following:
+Notices Players, Notices other AI types(Penguin,Walrus,etc), attacks
+
+#Models:
+-More Critters. Varied Penguins.
+-smol pengu wepons
+-Fish
+-Big scary walruseses
+-Birds
+
+#Animations:
+-Birds (Flying, Resting, floating)
+-Walrus (Sleeping, walking, swimming, attack)
+-Fish ( Swimming, swimming frantically)
+-Penguin (Attack, Swim)
+
+#SFX:
+-Bird calls
+-Walrus (Snoring, obnoxious sounds, grunts, squeaky movement, splashy swimming, oof sound when it gets hit)
+-Fish (no major sfx, bubbles and swishes when they move quick)
+-Penguin (penguin cry when it gets hit, splash/dive)
+-Basic armor SFX
+
+#World:
+-increase wetness (I’m already wet from this - Nick)
+
+
+
+##SHARED IDEAS:
+-???
